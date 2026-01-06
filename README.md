@@ -1,5 +1,8 @@
 # 🛡️ Bettercap Passive Network Observation Lab
 
+ 📄 **Full Lab Report:**  
+👉 [Click here to open the complete lab report](https://github.com/Pelumi-Johnson/Bettercap-Passive-Network-Observation-Lab/blob/main/Bettercap%20Passive%20Network%20Observation%20Lab.pdf)
+
 ## 📌 Overview
 This project documents a **passive network observation lab** conducted using **Bettercap** on an **Ubuntu virtual machine**.  
 The goal was to understand how devices naturally communicate on a local network, how traffic appears during normal connections, and how encryption impacts visibility — **without performing any active attacks or interference**.
