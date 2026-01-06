@@ -118,8 +118,4 @@ Understanding normal traffic behavior is essential before studying detection or 
 
 This foundational knowledge directly supports **SOC monitoring, threat detection, and network defense** roles.
 
----
-
-## 📘 Author
-**Pelumi Johnson**  
-Cybersecurity Student | Network Security & Threat Analysis  
+  
